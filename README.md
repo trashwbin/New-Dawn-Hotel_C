@@ -51,7 +51,7 @@
 
 ![3.png](https://github.com/aaaaabin/New-Dawn-Hotel_C/blob/main/image/3.png?raw=true)
 
-由于**经费问题**，==晨曦酒店==目前只能提供一种房型可供选择，毕竟**房价**摆在那，俺们**经济实惠**。
+由于**经费问题**，**晨曦酒店**目前只能提供一种房型可供选择，毕竟**房价**摆在那，俺们**经济实惠**。
 
 现在我们让**Abin**入住，他输入的票面是222，相应的，酒店将**找零**，当然，如果票面刚好相等，是**不会找零**的，如图：![3.1.png](https://github.com/aaaaabin/New-Dawn-Hotel_C/blob/main/image/3.1.png?raw=true)
 
